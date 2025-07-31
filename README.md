@@ -1,7 +1,7 @@
-# Space Fund Realty (SFR) Analysis
+# Space Fund Reality (SFR) Analysis
 ![](https://c4.wallpaperflare.com/wallpaper/81/233/257/smoke-cape-canaveral-rocket-falcon-9-wallpaper-preview.jpg)
 ## Project Overview
-The Space Fund Realty (SFR) Analysis project aims to provide valuable insights into aerospace companies and their missions, ultimately assisting investors in making informed decisions. The SFR is a crucial rating system that evaluates companies based on their missions, payload, launch costs, and other factors, providing an indication of their development and stability. The SFR rating ranges from 1 to 9, with higher ratings signifying more developed companies.
+The Space Fund Reality (SFR) Analysis project aims to provide valuable insights into aerospace companies and their missions, ultimately assisting investors in making informed decisions. The SFR is a crucial rating system that evaluates companies based on their missions, payload, launch costs, and other factors, providing an indication of their development and stability. The SFR rating ranges from 1 to 9, with higher ratings signifying more developed companies.
 
 ## Data Dictionary
 Here is a description of the dataset used in this project:
@@ -9,7 +9,7 @@ Here is a description of the dataset used in this project:
 | Column Name         | Description                                           |
 |---------------------|-------------------------------------------------------|
 | Company             | Name of the company                                   |
-| SFR                 | SpaceFund Realty rating of the company               |
+| SFR                 | SpaceFund Reality rating of the company               |
 | Payload(kg)         | Payload of the mission                                |
 | Launch Cost (million USD) | Launch cost of the mission                      |
 | Price per kg        | Price per kg payload of the mission                  |
